@@ -20,13 +20,13 @@ I enjoy building practical, business-oriented applications, especially restauran
 
 Before moving into software development, I spent 8 years working in the restaurant industry. This experience gave me a strong understanding of real-world workflows and enhanced my problem-solving skills, which now helps me design software from a user-focused and business-aware perspective.
 
-Currently, I am continuing to strengthen my backend development skills by building Django projects and simple APIs, focusing on clean code, best practices, and gradual improvement.
+Currently, I am continuing to strengthen my backend development skills by building Django projects and business APIs, focusing on clean code, best practices, and gradual improvement.
 
 🔧 What I Work With
 
 Python  
 Django  
-SQLite / MySQL / PostgerSQL 
+SQLite / MySQL / PostgerSQL
 Tkinter (Desktop Applications)  
 JavaScript (Fetch API, DOM manipulation, Validation )  
 HTML & CSS  
