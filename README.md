@@ -26,15 +26,15 @@ Currently, I am continuing to strengthen my backend development skills by buildi
 
 Python  
 Django  
-SQLite / MySQL  
+SQLite / MySQL / PostgerSQL 
 Tkinter (Desktop Applications)  
-JavaScript (Fetch API, AJAX)  
+JavaScript (Fetch API, DOM manipulation, Validation )  
 HTML & CSS  
 
 📂 Projects
 
 🧾 Desktop POS / Cashier System (Python + Tkinter)  
 🍽️ Restaurant Management Web Applications (Django)  
-🔗 Backend APIs & Practice Projects  
+🔗 Backend APIs & Practice Projects (Django-DRF) 
 
 ⭐ Thanks for checking out my GitHub profile!
